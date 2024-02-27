@@ -40,7 +40,7 @@
 //    Console.WriteLine("Angka Genap" + " " + temp + ":" + bilanganGenap[i]);
 //    temp++;
 //}
-
-dadad
+ //
+AKU Rafli love 
 
 
