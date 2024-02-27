@@ -1,0 +1,14 @@
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\bin\Debug\net8.0\TP2 KPL.exe
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\bin\Debug\net8.0\TP2 KPL.deps.json
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\bin\Debug\net8.0\TP2 KPL.runtimeconfig.json
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\bin\Debug\net8.0\TP2 KPL.dll
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\bin\Debug\net8.0\TP2 KPL.pdb
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\TP2 KPL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\TP2 KPL.AssemblyInfoInputs.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\TP2 KPL.AssemblyInfo.cs
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\TP2 KPL.csproj.CoreCompileInputs.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\TP2 KPL.dll
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\refint\TP2 KPL.dll
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\TP2 KPL.pdb
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\TP2 KPL.genruntimeconfig.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\TP2 KPL\TP2 KPL\obj\Debug\net8.0\ref\TP2 KPL.dll
